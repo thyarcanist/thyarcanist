@@ -5,7 +5,8 @@
 - 📫 Reach me on twitter!
 
 I've gotten Interviews at Rockstar, Beenox, Harebrained Schemes and Hypixel. :)
-Each time I go into the gauntlet, I know a little more of what I need to refine.
+I made it to Stage 4 at Beenox but alas, no offer. All were me applying to Technical Game Designer positions.
+- Each time I go into the gauntlet, I know a little more of what I need to refine.
 
 <!---
 voidespy/voidespy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
