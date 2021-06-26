@@ -5,7 +5,8 @@
 - 📫 Reach me on twitter!
 
 I've gotten Interviews at Rockstar, Beenox, Harebrained Schemes and Hypixel. :)
-I made it to Stage 4 at Beenox but alas, no offer. All were me applying to Technical Game Designer positions.
+I made it to Stage 4 at Beenox but alas, no offer. All were me applying to Technical Game Designer positions. 
+I'm still applying and interviewing currently.
 - Each time I go into the gauntlet, I know a little more of what I need to refine.
 
 <!---
