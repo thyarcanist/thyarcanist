@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @voidespy
-- 👀 I’m a Game Designer but I'm interesting into some of the more rigious programming within' Game Development. Outside of coding and game dev, I'm learning Korean.
+- 👀 I’m a Game Designer but I'm interesting into some of the more rigorous programming within' Game Development. Outside of coding and game dev, I'm learning Korean.
 - 🌱 I have learned C# (and getting better); and I'm currently learning C++, getting better at data structures and algorithms.
 - 💞️ I’m looking to collaborate on creating vidya' games.
 - 📫 Reach me on twitter!
