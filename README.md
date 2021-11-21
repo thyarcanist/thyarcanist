@@ -5,7 +5,7 @@
 - 📫 Reach me on twitter!
 
 I've gotten interviews at a few game dev studios. However, I've gotten no offer. Big name places, hopefully I have some new interviews in the next few weeks.
-I'm still applying; and no other interviews thus far.
+I'm still applying; and no other interviews thus far. I'm working at a super cool company as a Simulation Designer! :D
 - Each time I go into the gauntlet, I know a little more of what I need to refine.
 
 <!---
