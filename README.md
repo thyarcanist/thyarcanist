@@ -4,7 +4,7 @@
 - 💞️ Gaming is my passion, and writing is something that relaxes me. I'm getting into AI too; I enjoy data.
 - I would like to add, there are not many contributions in 2022 because my mother was murdered during that year and I started placing some of bigger projects in a Perforce server locally.
 
-[![Voidespy's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidespy&count_private=true)](https://github.com/voidespy/github-readme-stats)
+[![Voidespy's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidespy&count_private=true&show_icons=true&theme=radical)](https://github.com/voidespy/github-readme-stats)
 
 <!---
 voidespy/voidespy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
