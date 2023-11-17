@@ -5,8 +5,8 @@
 - I will note that the biggest things of not contributing to Github this year is because I was working on a project where I had to use Unity's PlasticSCM for source control; I made so many commits and I'm basically using that for Unity projects now.
 
 
-https://teamtreehouse.com/profiles/datorienanderson
-https://www.cloudskillsboost.google/public_profiles/3ba9e61f-f9f6-478b-b417-a5ece619412c
+- [TeamTreehouse]https://teamtreehouse.com/profiles/datorienanderson
+- [Google Cloud Platforms' Skill Boost]https://www.cloudskillsboost.google/public_profiles/3ba9e61f-f9f6-478b-b417-a5ece619412c
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidespy&langs_count=10&theme=midnight-purple&layout=compact)](https://github.com/voidespy/github-readme-stats) [![Voidespy's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidespy&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/voidespy/github-readme-stats)
