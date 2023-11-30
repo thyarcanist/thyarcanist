@@ -7,9 +7,10 @@
 
 - [TeamTreehouse]https://teamtreehouse.com/profiles/datorienanderson
 - [Google Cloud Platforms' Skill Boost]https://www.cloudskillsboost.google/public_profiles/3ba9e61f-f9f6-478b-b417-a5ece619412c
+- [HuggingFace.co | niltheory]https://huggingface.co/niltheory
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thyarcanist&langs_count=10&theme=midnight-purple&layout=compact)](https://github.com/voidespy/github-readme-stats) [![thyarcanist's GitHub stats](https://github-readme-stats.vercel.app/api?username=thyarcanist&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/thyarcanist/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thyarcanist&langs_count=10&theme=midnight-purple&layout=compact)](https://github.com/thyarcanist/github-readme-stats) [![thyarcanist's GitHub stats](https://github-readme-stats.vercel.app/api?username=thyarcanist&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/thyarcanist/github-readme-stats)
 
 <!---
 thyarcanist/thyarcanist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
